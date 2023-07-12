@@ -1,1 +1,5 @@
 a file created to check use of git repos in a project;
+this is just to analyse if git changges are being tracked
+
+
+changes for new branch are being done;
